@@ -1,6 +1,6 @@
 # Boeing-747
-This was my favorite project to make in Onshape, and I hope you enjoy looking at it as much as I enjoyed creating it. I spent a lot of time designing, building, and improving every part of this project. I did not use any AI during the creation process—I completed everything myself.
+This is one of my favorite things to build on Onshape, and I really hope you will appreciate it as much as I enjoyed making it. I have worked hard on designing and improving each element of this project. This thing was built by me without the help of any artificial intelligence.
 
-One of the biggest challenges I faced was learning how to use Onshape because this was my first time working with the program. At first, it was difficult to understand all of the tools and features, but as I practiced, I became more confident and improved my skills. I also had to solve problems and figure out better ways to create different parts of the design.
+One of the major challenges I faced was how to work in Onshape since it was my first experience working in this program. It was really challenging for me to learn how all the functions work, but after some practice, I got better at using it. I had to solve a lot of problems and find the best way to create different elements of the design.
 
-Overall, this project taught me a lot about 3D modeling, problem-solving, and being patient when learning something new. I am proud of how it turned out and of everything I learned while making it.
+I guess that I learned a lot from this experience and gained quite good knowledge of 3D modeling, solving problems, and patience.
