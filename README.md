@@ -6,3 +6,4 @@ One of the major challenges I faced was how to work in Onshape since it was my f
 I guess that I learned a lot from this experience and gained quite good knowledge of 3D modeling, solving problems, and patience.
 
 <img width="577" height="433" alt="webcam-toy-photo2-removebg-preview" src="https://github.com/user-attachments/assets/7705c5bd-1eec-46ba-83ea-34fadcc7a018" />
+<img width="930" height="575" alt="Screenshot 2026-06-30 175320" src="https://github.com/user-attachments/assets/91dd50a3-aa75-4d7e-a031-8cebcd43c700" />
